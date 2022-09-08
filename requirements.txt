@@ -1,0 +1,2 @@
+selenium==4.4.3 # 20220908 https://pypi.org/project/selenium/
+pandas==1.4.4   # 20220908 https://pypi.org/project/pandas/
