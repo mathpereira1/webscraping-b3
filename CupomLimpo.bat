@@ -1,4 +1,4 @@
 @echo off
-CALL C:\Users\mariucha\Documents\Automacao\venv2\Scripts\activate.bat
-python Z:\Operacional\Automacao\CupomLimpo.py runserver
+CALL C:\Users\mpereira\WORKSPACE\UNA\CupomLimpo\venv\Scripts\activate.bat
+python C:\Users\mpereira\WORKSPACE\UNA\CupomLimpo\CupomLimpo.py runserver
 pause

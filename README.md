@@ -1,0 +1,2 @@
+- a minha versão do python não suporta mais algumas bibliotecas antigas da mariucha, atualizar o projeto.
+- problemas no chromedriver
